@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "154488966711",
+    "firebase_url": "https://appcopio.firebaseio.com",
+    "project_id": "appcopio",
+    "storage_bucket": "appcopio.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:154488966711:android:f0f3d2ccc9c32242",
+        "android_client_info": {
+          "package_name": "com.example.martinruiz.appcopio"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "154488966711-llevnug651mvdrd0rbrdc77mobjqi53c.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.martinruiz.appcopio",
+            "certificate_hash": "3428073e89b76510adc17b163c6e4b84d2d60b91"
+          }
+        },
+        {
+          "client_id": "154488966711-4ffboo0gk7ugj74a79sq1s5f7tki7gmo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAr948kEdw4Qcnd5cPVj3Hak-gH3pROlYI"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "154488966711-4ffboo0gk7ugj74a79sq1s5f7tki7gmo.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
